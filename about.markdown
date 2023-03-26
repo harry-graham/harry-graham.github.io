@@ -8,4 +8,4 @@ permalink: /about/
 
 I'm a Software Engineer, passionate about adding value, learning, and helping others. ✨
 
-I most enjoy working on projects with robust testing, fast iterations, low integration friction, and many other things that help me to feel empowered and able to add value.
+The projects I most enjoy working on have robust testing, fast iterations, low integration friction, and many other things that help me to feel empowered to both work efficiently and to add value.
