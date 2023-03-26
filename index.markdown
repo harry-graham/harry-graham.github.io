@@ -5,7 +5,7 @@
 layout: home
 ---
 
-👋 Hi there! I'm Harry Graham
+👋 Hi there! I'm Harry Graham.
 
 I'm a Software Engineer, passionate about adding value, learning, and helping others. ✨
 
