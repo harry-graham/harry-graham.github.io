@@ -6,7 +6,7 @@ permalink: /bookshelf
 
 ## Overview
 
-There are many books on my physical and digital bookshelves. For conciseness, I've only listed the resources that I've read and would strongly recommend to others.
+This page lists several resources that I've read and would strongly recommend to others.
 
 ### 📚 Books
 
