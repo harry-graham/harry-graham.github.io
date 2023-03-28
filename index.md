@@ -5,8 +5,10 @@
 layout: home
 ---
 
-👋 Hi there! I'm Harry Graham.
+👋 Hi, I'm Harry Graham.
 
-I'm a Software Engineer, passionate about adding value, learning, and helping others. ✨
+I'm a full-stack Software Engineer, passionate about adding value, learning, and teaching others. ✨
 
-The projects I most enjoy working on have robust testing, fast iterations, low integration friction, and many other things that help me to feel empowered to both work efficiently and to add value.
+My main experience so far is with Ruby on Rails, though I'm open to learning any technologies.
+
+In my free time, I try to relax, look after my plants, and occasionally do some cooking.
