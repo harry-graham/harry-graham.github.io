@@ -8,7 +8,7 @@ permalink: /bookshelf
 
 This page lists several resources that I've read and would strongly recommend to others.
 
-### 📚 Books
+### Books 📚
 
 | Category | Books |
 | --- | --- |
@@ -16,7 +16,7 @@ This page lists several resources that I've read and would strongly recommend to
 | Fictional | - The Phoenix Project<br />- The Unicorn Project |
 | Career / Work | - It Doesn't Have to be Crazy at Work |
 
-### 💻 Online sources
+### Online sources 💻
 
 | Source | Overview |
 |---|---|
