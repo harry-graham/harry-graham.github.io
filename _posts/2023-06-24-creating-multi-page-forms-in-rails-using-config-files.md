@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "📜📜📜 Creating Multi-Page Forms in Rails (using Config files)"
+title: "Creating Multi-Page Forms in Rails (using Config files) 📜📜📜"
 date: "2023-06-24"
 ---
 
