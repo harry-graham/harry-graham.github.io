@@ -1,0 +1,11 @@
+---
+---
+
+// Define dummy class to prevent syntax highlighting false errors
+.dummy-class-do-not-use { display: none; }
+
+// Theme
+@import "minima";
+
+// Custom CSS, under "_sass" directory
+@import "footer";
