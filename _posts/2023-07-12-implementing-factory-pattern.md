@@ -152,7 +152,7 @@ The factory defines 1 exported method, `createList`, which:
 
 ### Review of this pattern
 
-There may be a level of complexity here, but the code feels clean and is abstracted away from the end-to-end tests into its own file. As a result, the tests are much simpler and easier to read.
+There may be a level of complexity here, but the code feels clean and is abstracted away from the end-to-end tests into its own file. As a result, the tests are simpler and easier to read.
 
 Overall, this approach is reusable, DRY, scaleable, and easier to maintain, whilst still allowing for DAMP and readable tests.
 
