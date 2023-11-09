@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Implementing the Factory Pattern 👨‍🏭"
+title: "Setting up Test Factories 👨‍🏭"
 date: "2023-07-12"
 ---
 
@@ -98,17 +98,17 @@ describe("List Items", () => {
 
 Even with this simplified example, this is quite complex and confusing, and takes some navigating and re-reading at first to understand what is happening.
 
-## Chapter 2: Implementing the Factory Pattern 🤖
+## Chapter 2: Setting up Test Factories 🤖
 
 ### Why?
 
-Using the factory pattern allows for creating new test objects within tests in an incredibly simple and readable fashion.
+Using factories allows for creating new test objects within tests in an incredibly simple and readable fashion.
 
 ### How?
 
-In Ruby, the factory pattern is frequently seen and used, often using the `factory-bot` Ruby gem.
+In Ruby, test factories are frequently seen and used, often using the `factory-bot` Ruby gem.
 
-TypeScript doesn't have this code package, but it is still possible to create factories manually for each required test object, to gain the benefits of the factory pattern, as I have done here.
+TypeScript doesn't have this code package, but it is still possible to create factories manually for each test object, as I have done here.
 
 One extra thing to note: `faker` can be used to auto-generate test data values, as I have done below. It is available for many languages, including both Ruby and TypeScript.
 
@@ -150,7 +150,7 @@ The factory defines 1 exported method, `createList`, which:
 - Assigns default values to any properties that aren't overriden (if defined in the factory)
 - Returns the new test object
 
-### Review of this pattern
+### Review of this approach
 
 There may be a level of complexity here, but the code feels clean and is abstracted away from the end-to-end tests into its own file. As a result, the tests are simpler and easier to read.
 
